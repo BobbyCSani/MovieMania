@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="movie">Movie</string>
+    <string name="failed_fetch_data">Failed Fetching Data</string>
+    <string name="ok">Ok</string>
+    <string name="genre">Genre</string>
+</resources>
